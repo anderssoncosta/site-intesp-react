@@ -1,0 +1,54 @@
+.caixa{
+    width: 40%;
+    text-align: end;
+    padding-right: 10px;
+}
+
+.bannerfundo{
+    position: relative;
+    
+}
+
+.banner_principal{
+    background-image: url(../../../public/Imagens/image2.png);
+    background-repeat: no-repeat;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 897px;
+}
+
+.banner2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.titulo_banner2{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.descricao{
+    color: #FFF;
+    padding: 10px;
+    text-align: right;
+}
+
+.botao{
+    background-color: #D40000;
+    border-radius: 5px;
+    color: #FFF;
+    padding: 8px;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.img_banner2{
+    max-width: 570px;
+    min-height: 570px;
+}

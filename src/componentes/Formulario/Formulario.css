@@ -1,0 +1,82 @@
+.formulario{
+    position: relative;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.formulario_texto{
+    color: #FFF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    height: auto;
+}
+.titulo_formulario{
+    color: #FFF;
+    display: flex;
+    align-items: center;
+    width: 199px;
+    height: 88px;
+    text-align: initial;
+    font-size: 40px;
+}
+
+.descricao_formulario{
+    position: relative;
+    width: 315px;
+    height: 36px;
+    text-align: end;
+    font-size: 16px;
+}
+
+.formulario_container{
+    padding: 50px;
+    background: #181717;
+    border-radius: 10px;
+    text-align: end;
+}
+
+
+.formulario_form{
+    display: grid;
+    justify-content: center;
+    justify-items: end;
+}
+
+.campo_texto{
+    width: 428.05px;
+    height: 60px;
+    margin: 10px 20px 10px 0px;
+    background: #D9D9D9;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.campo_opcao{
+    width: 438.06px;
+    height: 60px;
+    background: #D9D9D9;
+    border-radius: 5px;
+    padding: 1px 2px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.botao_formulario{
+    align-items: center;
+    background-color: #D40000;
+    border-radius: 5px;
+    color: #FFF;
+    padding: 8px;
+    text-decoration: none;
+    display: inline-flex;
+    margin-top: 30px;
+    width: 224px;
+    height: 45px;
+    justify-content: center;
+}

@@ -1,0 +1,38 @@
+.areas{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+.card_areas{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.titulo{
+    margin-top: 5px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+.texto_area{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 700;
+    width: 330px;
+}
+
+.imagem{
+    width: 50px;
+    height: 50px;
+    border: 2px solid;
+    border-color: #FFF;
+    padding: 60px;
+}
